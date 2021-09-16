@@ -1,0 +1,74 @@
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\kkancha\Downloads\vs\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\kkancha\Downloads\vs\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\kkancha\Downloads\vs\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\kkancha\Downloads\vs\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\kkancha\Downloads\vs\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\kkancha\Downloads\vs\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\kkancha\Downloads\vs\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\kkancha\Downloads\vs\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kkancha\Downloads\vs\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkancha\Downloads\vs\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kkancha\Downloads\vs\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\kkancha\Downloads\vs\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kkancha\Downloads\vs\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+C:\Users\kkancha\Downloads\vs\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\kkancha\Downloads\vs\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\slad\Downloads\vs\vs\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\slad\Downloads\vs\vs\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\slad\Downloads\vs\vs\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\slad\Downloads\vs\vs\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\slad\Downloads\vs\vs\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\slad\Downloads\vs\vs\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\slad\Downloads\vs\vs\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\slad\Downloads\vs\vs\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\slad\Downloads\vs\vs\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slad\Downloads\vs\vs\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\slad\Downloads\vs\vs\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\slad\Downloads\vs\vs\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\slad\Downloads\vs\vs\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+C:\Users\slad\Downloads\vs\vs\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\slad\Downloads\vs\vs\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb

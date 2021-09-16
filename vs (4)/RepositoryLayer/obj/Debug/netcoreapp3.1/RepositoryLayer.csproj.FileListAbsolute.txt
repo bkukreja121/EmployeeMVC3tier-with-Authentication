@@ -1,0 +1,64 @@
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\kkancha\source\repos\MVC\EmployeeDetailsMVC\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CopyComplete
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CopyComplete
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\slad\Downloads\EMP\EmployeeDetailsMVC\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\kkancha\Downloads\vs\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+C:\Users\kkancha\Downloads\vs\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\kkancha\Downloads\vs\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\kkancha\Downloads\vs\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\kkancha\Downloads\vs\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\kkancha\Downloads\vs\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\kkancha\Downloads\vs\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkancha\Downloads\vs\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\kkancha\Downloads\vs\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+C:\Users\kkancha\Downloads\vs\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\kkancha\Downloads\vs\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CopyComplete
+C:\Users\kkancha\Downloads\vs\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\kkancha\Downloads\vs\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\slad\Downloads\vs\vs\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+C:\Users\slad\Downloads\vs\vs\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\slad\Downloads\vs\vs\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\slad\Downloads\vs\vs\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\slad\Downloads\vs\vs\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\slad\Downloads\vs\vs\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\slad\Downloads\vs\vs\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slad\Downloads\vs\vs\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\slad\Downloads\vs\vs\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+C:\Users\slad\Downloads\vs\vs\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\slad\Downloads\vs\vs\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CopyComplete
+C:\Users\slad\Downloads\vs\vs\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\slad\Downloads\vs\vs\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CopyComplete
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\16-09-21\vs (4)\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb
